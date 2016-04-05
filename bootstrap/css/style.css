@@ -1,0 +1,114 @@
+.modal {
+    border-radius: 0px;
+}
+#comp{
+	line-height: 10px;
+}
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+#top > .table th, .table td {
+	line-height: 30px;
+}
+
+.imgframe {
+    border: 1px solid #EAEAEA;
+    display: inline-block;
+    margin: 8px;
+}
+.imgframe img {
+    border: 1px solid #FFFFFF;
+    margin: 0;
+    background: #F6F6F6;
+    padding: 8px;
+    -moz-box-shadow: 2px 2px 5px #CCCCCC;
+    -webkit-box-shadow: 2px 2px 5px #CCCCCC;
+}
+
+#content{
+	font-size: 20px;
+}
+#content > li{
+	line-height: 30px;
+}
+.thumbnail{
+    border-radius: 0px;
+}
+#alert_placeholder{
+	margin-top: 5px;
+}
+.input-append, .input-prepend {
+    margin-bottom: 0px;
+}
+input[type="text"] {
+   border-radius: 0px;
+}
+input[type="password"] {
+   border-radius: 0px;
+}
+.btn{
+	border-radius: 0px;
+}
+
+.nav-pills > li > a {
+    border-radius: 0px;
+}
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+
+#avatar{
+   width:100px;
+   height:100px;
+   margin: 0px;
+}
+
+/* strong {
+	color: #fff;
+} */
+/* .btn-block {
+	padding-top: 51px;
+	padding-bottom: 51px;
+} */
+.table thead tr{
+	background: #333;
+	color: #fff;
+}
+
+#footer{
+	clear: both;
+	text-align: center;
+	border-top: 1px dotted #B2BCC6;
+	margin-top: 10px;
+	font: 90% Georgia, "Times New Roman", Times, serif;
+	color: #2A4F6F;
+	background-color: transparent;
+}
+
+.msg{
+	text-align: center;
+}
+
+body{
+	padding-top:20px;
+	font-family: arial, verdana, sans-serif;
+}
+
+.media > .pull-left {
+    margin-right: 50px;
+}
+#arena{
+	border-radius: 0px;
+}
+
